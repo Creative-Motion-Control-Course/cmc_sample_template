@@ -1,0 +1,37 @@
+# Arduino / C++ build artifacts
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.eep
+*.lst
+*.sym
+
+# Arduino IDE
+build/
+.arduino/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jekyll / GitHub Pages
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
