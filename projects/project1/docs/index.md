@@ -5,6 +5,8 @@ title: "Project 1"
 
 # Project 1: [Your Project Title]
 
+[View the Project Proposal](proposal.md)
+
 ## Concept
 
 Describe your project idea and goals here.
